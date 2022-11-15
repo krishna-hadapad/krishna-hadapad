@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnah-github&label=Profile%20views&color=0e75b6&style=flat" alt="krishnah-github" /> </p>
 
-- 🔭 I’m currently working on **London stock Exchange group**
+- 🔭 I’m currently working on **Tata consultancy services**
 
 - 🌱 I’m currently learning **API and Performance testing and pytest framework**
 
