@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krishna-hadapad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-hadapad" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krishna-hadapad" target="blank"><img align="center" src="https://purepng.com/public/uploads/medium/purepng.com-circled-linkedin-logologosiconsflat-designcircled-logoscircled-iconsiconflatminimalistlogo-design-311519935824jlctj.png" alt="krishna-hadapad" height="30" width="40" /></a>
 <a href="https://fb.com/krishna.hadpad.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishna.hadpad.9/" height="30" width="40" /></a>
 <a href="https://instagram.com/_richie_59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_richie_59" height="30" width="40" /></a>
 </p>
