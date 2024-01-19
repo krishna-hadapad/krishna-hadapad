@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **API and Performance testing and pytest framework**
 
-- 💬 Ask me about **SQL, Manual testing, Python, Python selenium,Postman,JIRA**
+- 💬 Ask me about **Basics of SQL, Manual testing,Core Java, SeleniumWebDriver, Cucumberwith BDD Framework,Page object model ,Python, Python selenium,Basics of Postman,Agile methodology,Git,Github,JIRA**
 
 - 📫 How to reach me **krishnac.hadapad@gmail.com**
 
